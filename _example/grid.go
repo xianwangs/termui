@@ -2,11 +2,12 @@
 // Use of this source code is governed by a MIT license that can
 // be found in the LICENSE file.
 
+//go:build ignore
 // +build ignore
 
 package main
 
-import ui "github.com/gizak/termui"
+import ui "github.com/xianwangs/termui"
 
 import "math"
 

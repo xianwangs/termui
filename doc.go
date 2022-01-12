@@ -8,7 +8,7 @@ Package termui is a library designed for creating command line UI. For more info
 A simplest example:
     package main
 
-    import ui "github.com/gizak/termui"
+    import ui "github.com/xianwangs/termui"
 
     func main() {
         if err:=ui.Init(); err != nil {

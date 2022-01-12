@@ -2,11 +2,12 @@
 // Use of this source code is governed by a MIT license that can
 // be found in the LICENSE file.
 
+//go:build ignore
 // +build ignore
 
 package main
 
-import "github.com/gizak/termui"
+import "github.com/xianwangs/termui"
 
 func main() {
 	if err := termui.Init(); err != nil {

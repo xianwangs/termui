@@ -2,6 +2,7 @@
 // Use of this source code is governed by a MIT license that can
 // be found in the LICENSE file.
 
+//go:build ignore
 // +build ignore
 
 package main
@@ -9,7 +10,7 @@ package main
 import (
 	"math"
 
-	"github.com/gizak/termui"
+	"github.com/xianwangs/termui"
 )
 
 func main() {

@@ -23,7 +23,7 @@ Let's throw an simple example to get our feet wet:
 ```go
 package main
 
-import ui "github.com/gizak/termui" // use ui as an alias
+import ui "github.com/xianwangs/termui" // use ui as an alias
 
 func main() {
 	err := ui.Init()
