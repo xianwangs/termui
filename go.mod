@@ -1,4 +1,4 @@
-module github.com/xianwangs/termui
+module github.com/xianwangs/termui/v2
 
 go 1.17
 
