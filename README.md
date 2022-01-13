@@ -1,4 +1,4 @@
-# termui [![Build Status](https://travis-ci.org/gizak/termui.svg?branch=master)](https://travis-ci.org/gizak/termui) [![Doc Status](https://godoc.org/github.com/gizak/termui?status.png)](https://godoc.org/github.com/gizak/termui)
+# termui [![Build Status](https://travis-ci.org/gizak/termui.svg?branch=master)](https://travis-ci.org/gizak/termui) [![Doc Status](https://godoc.org/github.com/xianwangs/termui?status.png)](https://godoc.org/github.com/xianwangs/termui)
 
 <img src="./_example/dashboard.gif" alt="demo cast under osx 10.10; Terminal.app; Menlo Regular 12pt.)" width="80%">
 
@@ -10,7 +10,7 @@ Now version v2 has arrived! It brings new event system, new theme system, new `B
 
 `master` mirrors v2 branch, to install:
 
-	go get -u github.com/gizak/termui
+	go get -u github.com/xianwangs/termui
 
 It is recommanded to use locked deps by using [dep](https://golang.github.io/dep/): move to `termui` src directory then run `dep ensure`.
 
@@ -124,18 +124,18 @@ Grid layout uses [12 columns grid system](http://www.w3schools.com/bootstrap/boo
 
 Click image to see the corresponding demo codes.
 
-[<img src="./_example/par.png" alt="par" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/par.go)
-[<img src="./_example/list.png" alt="list" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/list.go)
-[<img src="./_example/gauge.png" alt="gauge" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/gauge.go)
-[<img src="./_example/linechart.png" alt="linechart" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/linechart.go)
-[<img src="./_example/barchart.png" alt="barchart" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/barchart.go)
-[<img src="./_example/mbarchart.png" alt="barchart" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/mbarchart.go)
-[<img src="./_example/sparklines.png" alt="sparklines" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/sparklines.go)
-[<img src="./_example/table.png" alt="table" type="image/png" width="45%">](https://github.com/gizak/termui/blob/master/_example/table.go)
+[<img src="./_example/par.png" alt="par" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/par.go)
+[<img src="./_example/list.png" alt="list" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/list.go)
+[<img src="./_example/gauge.png" alt="gauge" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/gauge.go)
+[<img src="./_example/linechart.png" alt="linechart" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/linechart.go)
+[<img src="./_example/barchart.png" alt="barchart" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/barchart.go)
+[<img src="./_example/mbarchart.png" alt="barchart" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/mbarchart.go)
+[<img src="./_example/sparklines.png" alt="sparklines" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/sparklines.go)
+[<img src="./_example/table.png" alt="table" type="image/png" width="45%">](https://github.com/xianwangs/termui/blob/master/_example/table.go)
 
 ## GoDoc
 
-[godoc](https://godoc.org/github.com/gizak/termui)
+[godoc](https://godoc.org/github.com/xianwangs/termui)
 
 ## TODO
 

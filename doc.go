@@ -3,7 +3,7 @@
 // be found in the LICENSE file.
 
 /*
-Package termui is a library designed for creating command line UI. For more info, goto http://github.com/gizak/termui
+Package termui is a library designed for creating command line UI. For more info, goto http://github.com/xianwangs/termui
 
 A simplest example:
     package main

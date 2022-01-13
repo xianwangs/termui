@@ -11,7 +11,7 @@ pages:
 - About: 'about.md'
 
 site_name: termui
-repo_url: https://github.com/gizak/termui/
+repo_url: https://github.com/xianwangs/termui/
 site_description: 'termui user guide'
 site_author: gizak
 

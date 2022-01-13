@@ -8,8 +8,8 @@
 package main
 
 import (
-	"github.com/gizak/termui/extra"
 	"github.com/xianwangs/termui"
+	"github.com/xianwangs/termui/extra"
 )
 
 func main() {

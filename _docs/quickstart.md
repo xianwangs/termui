@@ -1,11 +1,11 @@
 Installation
 ---
 
-Since [termui](https://github.com/gizak/termui) is a Go lib, we will need a working Go environment to begin with. If you have not set it up, there is a great intro you can follow up: [How to write Go code](https://golang.org/doc/code.html).
+Since [termui](https://github.com/xianwangs/termui) is a Go lib, we will need a working Go environment to begin with. If you have not set it up, there is a great intro you can follow up: [How to write Go code](https://golang.org/doc/code.html).
 
 Once you have the environment set up, you can proceed to install termui by the following command:
 
-`go get github.com/gizak/termui`
+`go get github.com/xianwangs/termui`
 
 The current version of termui is v2. If you are working with the old version of termui or the new version does not seem right to you, you can always go back to v1 version by:
 
